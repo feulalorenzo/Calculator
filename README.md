@@ -24,5 +24,5 @@ This repository contains a **minimal JavaFX application** that implements a basi
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/javafx-calculator.git
-cd javafx-calculator
+git clone [https://github.com/your-username/javafx-calculator.git](https://github.com/feulalorenzo/Calculator.git)
+
