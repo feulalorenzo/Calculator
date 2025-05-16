@@ -1,28 +1,27 @@
-# JavaFX Calculator - Minimal Test Project
+# Minimal JavaFX Calculator
 
-This repository contains a **minimal JavaFX application** that implements a basic calculator. It is intended as a simple example to test JavaFX integration in a Java project.
+This repository contains a minimal calculator application built with **JavaFX** and **JDK 24**.  
+It supports basic arithmetic operations and serves as a lightweight example or test project for JavaFX GUI development.
 
-## Features
+👉 Repository: [github.com/feulalorenzo/Calculator](https://github.com/feulalorenzo/Calculator.git)
 
-- GUI built with JavaFX
-- Basic arithmetic operations:
-  - Addition
-  - Subtraction
-  - Multiplication
-  - Division
-- Simple and intuitive layout
-- Minimal codebase for easy testing and learning
+## ✅ Features
 
-## Requirements
+- JavaFX-based graphical user interface
+- Basic operations: addition, subtraction, multiplication, division
+- Clean and minimal code structure
+- Easy to extend or adapt
 
-- JDK 24 or higher
-- JavaFX SDK (compatible with your JDK version)
-- Optional: IDE like IntelliJ IDEA, Eclipse, or VS Code
+## 🛠 Requirements
 
-## How to Run
+- **JDK 24**
+- **JavaFX SDK** (compatible with Java 24)
+- An IDE (e.g., IntelliJ IDEA, Eclipse) or command-line tools
+- Optional: JavaFX Scene Builder (for FXML editing)
 
-### 1. Clone the Repository
+## 🚀 Getting Started
+
+### Clone the Repository
 
 ```bash
-git clone [https://github.com/your-username/javafx-calculator.git](https://github.com/feulalorenzo/Calculator.git)
-
+git clone https://github.com/feulalorenzo/Calculator.git
