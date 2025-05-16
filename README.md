@@ -1,18 +1,28 @@
-## Getting Started
+# JavaFX Calculator - Minimal Test Project
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This repository contains a **minimal JavaFX application** that implements a basic calculator. It is intended as a simple example to test JavaFX integration in a Java project.
 
-## Folder Structure
+## Features
 
-The workspace contains two folders by default, where:
+- GUI built with JavaFX
+- Basic arithmetic operations:
+  - Addition
+  - Subtraction
+  - Multiplication
+  - Division
+- Simple and intuitive layout
+- Minimal codebase for easy testing and learning
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Requirements
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- JDK 24 or higher
+- JavaFX SDK (compatible with your JDK version)
+- Optional: IDE like IntelliJ IDEA, Eclipse, or VS Code
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## How to Run
 
-## Dependency Management
+### 1. Clone the Repository
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+```bash
+git clone https://github.com/your-username/javafx-calculator.git
+cd javafx-calculator
