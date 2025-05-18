@@ -1,27 +1,6 @@
-# Minimal JavaFX Calculator
+# Java Swing Calculator
 
-This repository contains a minimal calculator application built with **JavaFX** and **JDK 24**.  
-It supports basic arithmetic operations and serves as a lightweight example or test project for JavaFX GUI development.
+This repository contains a simple calculator application built using Java Swing. The project was created for educational purposes, to practice and explore the basics of building graphical user interfaces (GUIs) with Swing in Java.
 
-👉 Repository: [github.com/feulalorenzo/Calculator](https://github.com/feulalorenzo/Calculator.git)
+The calculator supports the four basic arithmetic operations and demonstrates a clear separation between the logic and the user interface. It is not intended for production use, but as a learning exercise for those interested in Java desktop development.
 
-## ✅ Features
-
-- JavaFX-based graphical user interface
-- Basic operations: addition, subtraction, multiplication, division
-- Clean and minimal code structure
-- Easy to extend or adapt
-
-## 🛠 Requirements
-
-- **JDK 24**
-- **JavaFX SDK** (compatible with Java 24)
-- An IDE (e.g., IntelliJ IDEA, Eclipse) or command-line tools
-- Optional: JavaFX Scene Builder (for FXML editing)
-
-## 🚀 Getting Started
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/feulalorenzo/Calculator.git
