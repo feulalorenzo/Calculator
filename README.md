@@ -4,3 +4,4 @@ This repository contains a simple calculator application built using Java Swing.
 
 The calculator supports the four basic arithmetic operations and demonstrates a clear separation between the logic and the user interface. It is not intended for production use, but as a learning exercise for those interested in Java desktop development.
 
+![Calculator preview](./assets/preview.png)
